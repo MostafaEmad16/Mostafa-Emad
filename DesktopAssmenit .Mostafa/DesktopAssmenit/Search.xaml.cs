@@ -28,12 +28,14 @@ namespace DesktopAssmenit
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            mm.ItemsSource = db.MMMs.ToList();
-            int xx = int.Parse(City.Text);
-            mm.ItemsSource = MMM..Where(x => x.mm == xx).ToList();
-
-
-
+            if (this.DataContext != null) 
+            {
+                mm.ItemsSource = db.User_1.ToList();
+                int xx = int.Parse(City.Text);
+                mm.ItemsSource = db.sinups.Where(x => x.city == xx).ToList();
+            }
+          
+          
         }
     }
 }

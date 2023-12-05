@@ -1,0 +1,31 @@
+
+IT@Mostafa_Emad_Mostafa_khalil MINGW64 ~/Desktop/Mostafa Emad _W2 (main)
+$ git init
+Reinitialized existing Git repository in C:/Users/IT/Desktop/Mostafa Emad _W2/.git/
+
+IT@Mostafa_Emad_Mostafa_khalil MINGW64 ~/Desktop/Mostafa Emad _W2 (main)
+$ git add *
+
+IT@Mostafa_Emad_Mostafa_khalil MINGW64 ~/Desktop/Mostafa Emad _W2 (main)
+$  git commit -m "first commit"
+On branch main
+nothing to commit, working tree clean
+
+IT@Mostafa_Emad_Mostafa_khalil MINGW64 ~/Desktop/Mostafa Emad _W2 (main)
+$ git branch -M main
+
+IT@Mostafa_Emad_Mostafa_khalil MINGW64 ~/Desktop/Mostafa Emad _W2 (main)
+$ git remote add origin https://github.com/MostafaEmad16/MA.git
+error: remote origin already exists.
+
+IT@Mostafa_Emad_Mostafa_khalil MINGW64 ~/Desktop/Mostafa Emad _W2 (main)
+$ git push -u origin main
+fatal: User canceled device code authentication
+error: unable to read askpass response from 'C:/Program Files/Git/mingw64/bin/git-askpass.exe'
+Username for 'https://github.com':
+
+
+
+
+
+

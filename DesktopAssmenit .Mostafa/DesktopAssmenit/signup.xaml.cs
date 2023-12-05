@@ -40,16 +40,16 @@ namespace DesktopAssmenit
                 {
                     if (isvalid(pas.Text))
                     {
-                        sinup ff = new sinup();
+                        sinup mmm = new sinup();
                         if (username1 != null && pas != null && age != null && phn != null && com != null)
                         {
-                            ff.Username = username1.Text;
-                            ff.Password_ =int.Parse( pas.Text);
-                            ff.Age = int.Parse(age.Text);
-                            ff.Gender = combox.Text;
-                            ff.Phone_number= int.Parse(phn.Text);
-                            ff.City = com.Text;
-                            db.MMMs.Add(ff);
+                            mmm.Username = username1.Text;
+                            mmm.Password_ =int.Parse( pas.Text);
+                            mmm.Age = int.Parse(age.Text);
+                            mmm.Gender = combox.Text;
+                            mmm.Phone_number= int.Parse(phn.Text);
+                            mmm.city = com.Text;
+                            db.sinups.Add(mmm);
                             db.SaveChanges();
                             MessageBox.Show("secufully sin up");
                         }

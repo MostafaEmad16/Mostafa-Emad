@@ -34,7 +34,7 @@ namespace DesktopAssmenit
                 if (isvalid(pass1.Text))
                 {
                     MMM gg = new MMM();
-                    gg = db.MMMs.FirstOrDefault(x => x.phonenum == use.Text);
+                    gg = db.MMMs.FirstOrDefault(x => x.admin_pass == use.Text);
                     if (gg != null)
                     {
                         gg.admin_pass = pass1.Text;

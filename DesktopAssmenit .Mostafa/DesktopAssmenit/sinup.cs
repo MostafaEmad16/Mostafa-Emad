@@ -14,12 +14,13 @@ namespace DesktopAssmenit
     
     public partial class sinup
     {
+        public static IEnumerable<object> Sin_upEntities { get; internal set; }
         public int user_id1 { get; set; }
         public string Username { get; set; }
         public Nullable<int> Password_ { get; set; }
         public Nullable<int> Age { get; set; }
         public string Gender { get; set; }
         public Nullable<int> Phone_number { get; set; }
-        public string City { get; set; }
+        public string city { get; set; }
     }
 }
