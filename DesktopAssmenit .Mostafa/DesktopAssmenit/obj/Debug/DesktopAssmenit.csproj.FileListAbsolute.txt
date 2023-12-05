@@ -1,0 +1,81 @@
+L:\DeskTop\DesktopAssmenit\DesktopAssmenit\obj\Debug\DesktopAssmenit.csproj.AssemblyReference.cache
+L:\DeskTop\DesktopAssmenit\DesktopAssmenit\obj\Debug\DesktopAssmenit.csproj.SuggestedBindingRedirects.cache
+L:\DeskTop\DesktopAssmenit\DesktopAssmenit\obj\Debug\forget.g.cs
+L:\DeskTop\DesktopAssmenit\DesktopAssmenit\obj\Debug\MainWindow.g.cs
+L:\DeskTop\DesktopAssmenit\DesktopAssmenit\obj\Debug\profile.g.cs
+L:\DeskTop\DesktopAssmenit\DesktopAssmenit\obj\Debug\signup.g.cs
+L:\DeskTop\DesktopAssmenit\DesktopAssmenit\obj\Debug\App.g.cs
+L:\DeskTop\DesktopAssmenit\DesktopAssmenit\obj\Debug\DesktopAssmenit_Content.g.cs
+L:\DeskTop\DesktopAssmenit\DesktopAssmenit\obj\Debug\DesktopAssmenit_MarkupCompile.cache
+L:\DeskTop\DesktopAssmenit\DesktopAssmenit\obj\Debug\DesktopAssmenit_MarkupCompile.lref
+L:\DeskTop\DesktopAssmenit\DesktopAssmenit\bin\Debug\DesktopAssmenit.exe.config
+L:\DeskTop\DesktopAssmenit\DesktopAssmenit\bin\Debug\DesktopAssmenit.exe
+L:\DeskTop\DesktopAssmenit\DesktopAssmenit\bin\Debug\DesktopAssmenit.pdb
+L:\DeskTop\DesktopAssmenit\DesktopAssmenit\obj\Debug\login.g.cs
+L:\DeskTop\DesktopAssmenit\DesktopAssmenit\obj\Debug\App.baml
+L:\DeskTop\DesktopAssmenit\DesktopAssmenit\obj\Debug\forget.baml
+L:\DeskTop\DesktopAssmenit\DesktopAssmenit\obj\Debug\login.baml
+L:\DeskTop\DesktopAssmenit\DesktopAssmenit\obj\Debug\MainWindow.baml
+L:\DeskTop\DesktopAssmenit\DesktopAssmenit\obj\Debug\profile.baml
+L:\DeskTop\DesktopAssmenit\DesktopAssmenit\obj\Debug\signup.baml
+L:\DeskTop\DesktopAssmenit\DesktopAssmenit\obj\Debug\DesktopAssmenit.g.resources
+L:\DeskTop\DesktopAssmenit\DesktopAssmenit\obj\Debug\DesktopAssmenit.Properties.Resources.resources
+L:\DeskTop\DesktopAssmenit\DesktopAssmenit\obj\Debug\DesktopAssmenit.csproj.GenerateResource.cache
+L:\DeskTop\DesktopAssmenit\DesktopAssmenit\obj\Debug\DesktopAssmenit.csproj.CoreCompileInputs.cache
+L:\DeskTop\DesktopAssmenit\DesktopAssmenit\obj\Debug\DesktopAssmenit.exe
+L:\DeskTop\DesktopAssmenit\DesktopAssmenit\obj\Debug\DesktopAssmenit.pdb
+L:\DeskTop\DesktopAssmenit\DesktopAssmenit\bin\Debug\EntityFramework.dll
+L:\DeskTop\DesktopAssmenit\DesktopAssmenit\bin\Debug\EntityFramework.SqlServer.dll
+L:\DeskTop\DesktopAssmenit\DesktopAssmenit\bin\Debug\EntityFramework.xml
+L:\DeskTop\DesktopAssmenit\DesktopAssmenit\bin\Debug\EntityFramework.SqlServer.xml
+L:\DeskTop\DesktopAssmenit\DesktopAssmenit\obj\Debug\DesktopAssmenit.csproj.CopyComplete
+L:\DeskTop\DesktopAssmenit\DesktopAssmenit\obj\Debug\profilepage.g.cs
+L:\DeskTop\DesktopAssmenit\DesktopAssmenit\obj\Debug\profilepage.baml
+C:\Users\Mostafa\Downloads\DesktopAssmenit .DaliaRgab\DesktopAssmenit\bin\Debug\DesktopAssmenit.exe.config
+C:\Users\Mostafa\Downloads\DesktopAssmenit .DaliaRgab\DesktopAssmenit\bin\Debug\DesktopAssmenit.exe
+C:\Users\Mostafa\Downloads\DesktopAssmenit .DaliaRgab\DesktopAssmenit\bin\Debug\DesktopAssmenit.pdb
+C:\Users\Mostafa\Downloads\DesktopAssmenit .DaliaRgab\DesktopAssmenit\bin\Debug\EntityFramework.dll
+C:\Users\Mostafa\Downloads\DesktopAssmenit .DaliaRgab\DesktopAssmenit\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mostafa\Downloads\DesktopAssmenit .DaliaRgab\DesktopAssmenit\bin\Debug\EntityFramework.xml
+C:\Users\Mostafa\Downloads\DesktopAssmenit .DaliaRgab\DesktopAssmenit\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mostafa\Downloads\DesktopAssmenit .DaliaRgab\DesktopAssmenit\obj\Debug\DesktopAssmenit.csproj.AssemblyReference.cache
+C:\Users\Mostafa\Downloads\DesktopAssmenit .DaliaRgab\DesktopAssmenit\obj\Debug\forget.g.cs
+C:\Users\Mostafa\Downloads\DesktopAssmenit .DaliaRgab\DesktopAssmenit\obj\Debug\login.g.cs
+C:\Users\Mostafa\Downloads\DesktopAssmenit .DaliaRgab\DesktopAssmenit\obj\Debug\MainWindow.g.cs
+C:\Users\Mostafa\Downloads\DesktopAssmenit .DaliaRgab\DesktopAssmenit\obj\Debug\profile.g.cs
+C:\Users\Mostafa\Downloads\DesktopAssmenit .DaliaRgab\DesktopAssmenit\obj\Debug\profilepage.g.cs
+C:\Users\Mostafa\Downloads\DesktopAssmenit .DaliaRgab\DesktopAssmenit\obj\Debug\signup.g.cs
+C:\Users\Mostafa\Downloads\DesktopAssmenit .DaliaRgab\DesktopAssmenit\obj\Debug\App.g.cs
+C:\Users\Mostafa\Downloads\DesktopAssmenit .DaliaRgab\DesktopAssmenit\obj\Debug\DesktopAssmenit_Content.g.cs
+C:\Users\Mostafa\Downloads\DesktopAssmenit .DaliaRgab\DesktopAssmenit\obj\Debug\DesktopAssmenit_MarkupCompile.cache
+C:\Users\Mostafa\Downloads\DesktopAssmenit .DaliaRgab\DesktopAssmenit\obj\Debug\DesktopAssmenit_MarkupCompile.lref
+C:\Users\Mostafa\Downloads\DesktopAssmenit .DaliaRgab\DesktopAssmenit\obj\Debug\App.baml
+C:\Users\Mostafa\Downloads\DesktopAssmenit .DaliaRgab\DesktopAssmenit\obj\Debug\forget.baml
+C:\Users\Mostafa\Downloads\DesktopAssmenit .DaliaRgab\DesktopAssmenit\obj\Debug\login.baml
+C:\Users\Mostafa\Downloads\DesktopAssmenit .DaliaRgab\DesktopAssmenit\obj\Debug\MainWindow.baml
+C:\Users\Mostafa\Downloads\DesktopAssmenit .DaliaRgab\DesktopAssmenit\obj\Debug\profile.baml
+C:\Users\Mostafa\Downloads\DesktopAssmenit .DaliaRgab\DesktopAssmenit\obj\Debug\profilepage.baml
+C:\Users\Mostafa\Downloads\DesktopAssmenit .DaliaRgab\DesktopAssmenit\obj\Debug\signup.baml
+C:\Users\Mostafa\Downloads\DesktopAssmenit .DaliaRgab\DesktopAssmenit\obj\Debug\DesktopAssmenit.g.resources
+C:\Users\Mostafa\Downloads\DesktopAssmenit .DaliaRgab\DesktopAssmenit\obj\Debug\DesktopAssmenit.Properties.Resources.resources
+C:\Users\Mostafa\Downloads\DesktopAssmenit .DaliaRgab\DesktopAssmenit\obj\Debug\DesktopAssmenit.csproj.GenerateResource.cache
+C:\Users\Mostafa\Downloads\DesktopAssmenit .DaliaRgab\DesktopAssmenit\obj\Debug\DesktopAssmenit.csproj.CoreCompileInputs.cache
+C:\Users\Mostafa\Downloads\DesktopAssmenit .DaliaRgab\DesktopAssmenit\obj\Debug\DesktopAssmenit.csproj.CopyComplete
+C:\Users\Mostafa\Downloads\DesktopAssmenit .DaliaRgab\DesktopAssmenit\obj\Debug\DesktopAssmenit.exe
+C:\Users\Mostafa\Downloads\DesktopAssmenit .DaliaRgab\DesktopAssmenit\obj\Debug\DesktopAssmenit.pdb
+C:\Users\IT\Desktop\Mostafa Emad _W2\DesktopAssmenit .Mostafa\DesktopAssmenit\obj\Debug\DesktopAssmenit.csproj.AssemblyReference.cache
+C:\Users\IT\Desktop\Mostafa Emad _W2\DesktopAssmenit .Mostafa\DesktopAssmenit\obj\Debug\DesktopAssmenit.csproj.SuggestedBindingRedirects.cache
+C:\Users\IT\Desktop\Mostafa Emad _W2\DesktopAssmenit .Mostafa\DesktopAssmenit\obj\Debug\Delete.g.cs
+C:\Users\IT\Desktop\Mostafa Emad _W2\DesktopAssmenit .Mostafa\DesktopAssmenit\obj\Debug\forget.g.cs
+C:\Users\IT\Desktop\Mostafa Emad _W2\DesktopAssmenit .Mostafa\DesktopAssmenit\obj\Debug\login.g.cs
+C:\Users\IT\Desktop\Mostafa Emad _W2\DesktopAssmenit .Mostafa\DesktopAssmenit\obj\Debug\MainWindow.g.cs
+C:\Users\IT\Desktop\Mostafa Emad _W2\DesktopAssmenit .Mostafa\DesktopAssmenit\obj\Debug\profile.g.cs
+C:\Users\IT\Desktop\Mostafa Emad _W2\DesktopAssmenit .Mostafa\DesktopAssmenit\obj\Debug\profilepage.g.cs
+C:\Users\IT\Desktop\Mostafa Emad _W2\DesktopAssmenit .Mostafa\DesktopAssmenit\obj\Debug\Search.g.cs
+C:\Users\IT\Desktop\Mostafa Emad _W2\DesktopAssmenit .Mostafa\DesktopAssmenit\obj\Debug\signup.g.cs
+C:\Users\IT\Desktop\Mostafa Emad _W2\DesktopAssmenit .Mostafa\DesktopAssmenit\obj\Debug\App.g.cs
+C:\Users\IT\Desktop\Mostafa Emad _W2\DesktopAssmenit .Mostafa\DesktopAssmenit\obj\Debug\DesktopAssmenit_Content.g.cs
+C:\Users\IT\Desktop\Mostafa Emad _W2\DesktopAssmenit .Mostafa\DesktopAssmenit\obj\Debug\DesktopAssmenit_MarkupCompile.cache
+C:\Users\IT\Desktop\Mostafa Emad _W2\DesktopAssmenit .Mostafa\DesktopAssmenit\obj\Debug\DesktopAssmenit_MarkupCompile.lref
+C:\Users\IT\Desktop\Mostafa Emad _W2\DesktopAssmenit .Mostafa\DesktopAssmenit\obj\Debug\DesktopAssmenit.exe
+C:\Users\IT\Desktop\Mostafa Emad _W2\DesktopAssmenit .Mostafa\DesktopAssmenit\obj\Debug\DesktopAssmenit.pdb

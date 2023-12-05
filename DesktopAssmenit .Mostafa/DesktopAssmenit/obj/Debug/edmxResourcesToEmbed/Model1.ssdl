@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Model.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="MMM">
+    <Key>
+      <PropertyRef Name="admin_id" />
+    </Key>
+    <Property Name="admin_id" Type="int" Nullable="false" />
+    <Property Name="admin_username" Type="varchar" MaxLength="50" />
+    <Property Name="admin_pass" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="sinup">
+    <Key>
+      <PropertyRef Name="user_id1" />
+    </Key>
+    <Property Name="user_id1" Type="int" Nullable="false" />
+    <Property Name="Username" Type="varchar" MaxLength="50" />
+    <Property Name="Password_" Type="int" />
+    <Property Name="Age" Type="int" />
+    <Property Name="Gender" Type="varchar" MaxLength="50" />
+    <Property Name="Phone_number" Type="int" />
+    <Property Name="City" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="User_1">
+    <Key>
+      <PropertyRef Name="phonenum" />
+    </Key>
+    <Property Name="userid" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Username" Type="varchar" MaxLength="60" />
+    <Property Name="password_" Type="varchar" MaxLength="60" />
+    <Property Name="Age" Type="int" />
+    <Property Name="Gender" Type="varchar" MaxLength="80" />
+    <Property Name="phonenum" Type="varchar" MaxLength="80" Nullable="false" />
+    <Property Name="city" Type="varchar" MaxLength="100" />
+  </EntityType>
+  <EntityContainer Name="ModelStoreContainer">
+    <EntitySet Name="MMM" EntityType="Self.MMM" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sinup" EntityType="Self.sinup" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="User_1" EntityType="Self.User_1" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>
