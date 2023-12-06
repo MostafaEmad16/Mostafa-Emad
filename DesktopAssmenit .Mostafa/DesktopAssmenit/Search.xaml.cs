@@ -32,7 +32,7 @@ namespace DesktopAssmenit
             {
                 mm.ItemsSource = db.User_1.ToList();
                 int xx = int.Parse(City.Text);
-                mm.ItemsSource = db.sinups.Where(x => x.city == xx).ToList();
+                mm.ItemsSource = db.sinups.Where(x => x.city = xx).ToList();
             }
           
           

@@ -26,7 +26,7 @@ namespace DesktopAssmenit
             InitializeComponent();
            
             datagrid.ItemsSource=db.MMMs.ToList();
-            datagrid.ItemsSource=db.MMMs.Where(x=>x.Username==name).ToList();
+            datagrid.ItemsSource=db.MMMs.Where(x=>x.admin_username == name).ToList();
            
             
         }
